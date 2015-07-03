@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "async": "^1.x",
-    "esrislurp": "1.1.0",
+    "esrislurp": "git://github.com/phillipgreenii/esrislurp.git#compactmode",
     "mkdirp": "^0.x",
     "progress": "^1.x"
   },
